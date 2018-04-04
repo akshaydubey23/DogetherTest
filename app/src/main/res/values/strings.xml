@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogetherTest</string>
+    <string name="text_enter_user">Enter User name :</string>
+    <string name="text_enter_repo">Enter Repository name :</string>
+    <string name="text_hint_repo">Eg: RxJava</string>
+    <string name="text_hint_user">Eg: ReactiveX</string>
+</resources>

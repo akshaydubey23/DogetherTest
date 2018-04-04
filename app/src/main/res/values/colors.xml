@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C12A39</color>
+    <color name="colorPrimaryDark">#C12A39</color>
+    <color name="colorAccent">#C12A39</color>
+    <color name="dogethercolor">#C12A39</color>
+    <array name="progress_colors">
+        <item>#C12A39</item>
+
+    </array>
+</resources>
